@@ -7,6 +7,12 @@ img {
   height: auto;
 }
 
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
 .container {
   width: 20rem;
 }
@@ -16,3 +22,36 @@ img {
 }
 
 /* 23BDEE */
+
+header {
+  padding-top: 1.25rem;
+  background-color: #23bdee;
+}
+
+header .container {
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+body {
+  margin: 0;
+}
+
+.er {
+  display: flex;
+}
+
+.re {
+  display: flex;
+}
+
+nav {
+  display: flex;
+}
+
+.container {
+  width: 69.3rem;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -55,3 +55,8 @@ nav {
   margin-left: auto;
   margin-right: auto;
 }
+
+main {
+  padding-top: 1.25rem;
+  background-color: #23bdee;
+}

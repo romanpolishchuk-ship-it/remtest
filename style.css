@@ -56,11 +56,7 @@ nav {
   margin-right: auto;
 }
 
-main {
-  padding-top: 1.25rem;
-  background-color: #23bdee;
-}
-
 .software h2 {
   text-align: center;
+  font-family: "Poppints";
 }

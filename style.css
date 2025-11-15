@@ -60,3 +60,7 @@ main {
   padding-top: 1.25rem;
   background-color: #23bdee;
 }
+
+.software h2 {
+  text-align: center;
+}
